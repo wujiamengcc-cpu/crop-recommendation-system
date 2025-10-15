@@ -1,0 +1,2 @@
+# crop-recommendation-system
+基于贝叶斯优化的CatBoost-Transformer加权融合智能作物推荐系统
